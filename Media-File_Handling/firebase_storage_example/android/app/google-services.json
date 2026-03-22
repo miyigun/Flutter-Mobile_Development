@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63279473675",
+    "project_id": "fir-storage-ffb48",
+    "storage_bucket": "fir-storage-ffb48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63279473675:android:022f3e4c18c622abde530e",
+        "android_client_info": {
+          "package_name": "com.murat.firebase_stor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63279473675-l2mfckpt2iesg61rhidn93ii25qgrrc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCKyI1hACYvA-DUpDVsceslkVYNd97gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63279473675-l2mfckpt2iesg61rhidn93ii25qgrrc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
